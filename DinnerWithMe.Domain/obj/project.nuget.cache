@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SK4Jkv0ILRNXYnqRm54/pWzM5OXKI+l9+L6vsaaDE0w7pgpVjJOlKayNnjnKmig9OjqFBGn+RYK/iJDUV1jjew==",
+  "success": true,
+  "projectFilePath": "/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/DinnerWithMe.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/shedinho/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

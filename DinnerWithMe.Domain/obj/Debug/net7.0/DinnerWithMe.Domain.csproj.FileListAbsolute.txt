@@ -1,0 +1,12 @@
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/bin/Debug/net7.0/DinnerWithMe.Domain.deps.json
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/bin/Debug/net7.0/DinnerWithMe.Domain.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/bin/Debug/net7.0/DinnerWithMe.Domain.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/DinnerWithMe.Domain.csproj.AssemblyReference.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/DinnerWithMe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/DinnerWithMe.Domain.AssemblyInfoInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/DinnerWithMe.Domain.AssemblyInfo.cs
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/DinnerWithMe.Domain.csproj.CoreCompileInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/DinnerWithMe.Domain.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/refint/DinnerWithMe.Domain.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/DinnerWithMe.Domain.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Domain/obj/Debug/net7.0/ref/DinnerWithMe.Domain.dll

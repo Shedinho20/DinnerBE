@@ -1,0 +1,15 @@
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/bin/Debug/net7.0/DinnerWithMe.Application.deps.json
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/bin/Debug/net7.0/DinnerWithMe.Application.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/bin/Debug/net7.0/DinnerWithMe.Application.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.csproj.AssemblyReference.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.AssemblyInfoInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.AssemblyInfo.cs
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.csproj.CoreCompileInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/refint/DinnerWithMe.Application.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/ref/DinnerWithMe.Application.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/bin/Debug/net7.0/DinnerWithMe.Domain.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/bin/Debug/net7.0/DinnerWithMe.Domain.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/obj/Debug/net7.0/DinnerWithMe.Application.csproj.CopyComplete

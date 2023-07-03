@@ -1,0 +1,17 @@
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/bin/Debug/net7.0/DinnerWithMe.Infrastructure.deps.json
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/bin/Debug/net7.0/DinnerWithMe.Infrastructure.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/bin/Debug/net7.0/DinnerWithMe.Infrastructure.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.csproj.AssemblyReference.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.AssemblyInfoInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.AssemblyInfo.cs
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/refint/DinnerWithMe.Infrastructure.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/ref/DinnerWithMe.Infrastructure.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/bin/Debug/net7.0/DinnerWithMe.Application.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/bin/Debug/net7.0/DinnerWithMe.Domain.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/bin/Debug/net7.0/DinnerWithMe.Application.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/bin/Debug/net7.0/DinnerWithMe.Domain.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Infrastructure/obj/Debug/net7.0/DinnerWithMe.Infrastructure.csproj.CopyComplete

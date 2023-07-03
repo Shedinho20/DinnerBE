@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2gUFw3pDXwkY7wU35OVDHtjAD/nyOm9Go9G2s1WM70CTY8ogk0jQWA/zy95dgPqjZD7opWNLRc6ksOYz30gRw==",
+  "success": true,
+  "projectFilePath": "/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Application/DinnerWithMe.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/shedinho/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/shedinho/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/shedinho/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/shedinho/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/shedinho/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

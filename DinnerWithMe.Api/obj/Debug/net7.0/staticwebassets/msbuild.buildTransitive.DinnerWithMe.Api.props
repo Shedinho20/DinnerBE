@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/DinnerWithMe.Api.props" />
+</Project>

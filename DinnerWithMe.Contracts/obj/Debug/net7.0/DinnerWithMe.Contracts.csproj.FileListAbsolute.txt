@@ -1,0 +1,12 @@
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/bin/Debug/net7.0/DinnerWithMe.Contracts.deps.json
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/bin/Debug/net7.0/DinnerWithMe.Contracts.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/bin/Debug/net7.0/DinnerWithMe.Contracts.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/DinnerWithMe.Contracts.csproj.AssemblyReference.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/DinnerWithMe.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/DinnerWithMe.Contracts.AssemblyInfoInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/DinnerWithMe.Contracts.AssemblyInfo.cs
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/DinnerWithMe.Contracts.csproj.CoreCompileInputs.cache
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/DinnerWithMe.Contracts.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/refint/DinnerWithMe.Contracts.dll
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/DinnerWithMe.Contracts.pdb
+/Users/shedinho/projects/DinnerWithME/DinnerWithMe.Contracts/obj/Debug/net7.0/ref/DinnerWithMe.Contracts.dll
